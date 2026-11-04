@@ -1,16 +1,14 @@
-## Hi there 👋
+# Hola, soy Emilio Peña 👋
 
-<!--
-**superemilio/superemilio** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Director de TI · Tecnología para la industria hotelera · Monterrey, N.L., México**
 
-Here are some ideas to get you started:
+Llevo desde 1999 trabajando en tecnología hotelera: sistemas de gestión hotelera (PMS) y ERP, infraestructura y redes, ciberseguridad y soporte a la operación. Hoy exploro cómo aplicar la inteligencia artificial para automatizar procesos y mejorar la experiencia del huésped.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠️ Áreas y tecnologías
+`OPERA PMS` · `SAP ERP` · `Ciberseguridad` · `Redes e infraestructura` · `Gestión de proyectos de TI` · `IA aplicada`
+
+### 🎓 Formación
+Ingeniero en Electrónica y Comunicaciones (UANL) · Maestría en Administración Industrial y de Negocios (UANL) · Maestría en Ingeniería de la Información (UANL)
+
+### 📫 Contacto
+[LinkedIn](https://www.linkedin.com/in/emilio-pena)
